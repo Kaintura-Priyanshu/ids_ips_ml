@@ -1,0 +1,36 @@
+data:
+  raw_dir: "data/raw"
+  source_csv: "data/synthetic_cicids2017_sample.csv"
+  label_column: "Label"
+  test_size: 0.2
+  random_state: 42
+
+model:
+  rf:
+    n_estimators: 100
+    max_depth: 14
+    n_jobs: -1
+    class_weight: "balanced_subsample"
+  isolation_forest:
+    n_estimators: 150
+    contamination: 0.02
+  artifacts_dir: "models"
+
+policy:
+  # confidence thresholds from the RF classifier (0-1)
+  block_threshold: 0.85
+  rate_limit_threshold: 0.60
+  # isolation forest anomaly score threshold (lower = more anomalous)
+  anomaly_threshold: -0.05
+  # repeated offenses before permanent escalation
+  offense_escalation_count: 3
+  block_duration_minutes: 60
+  enforce_real_firewall_rules: false   # left as safe stub, see README
+
+logging:
+  log_dir: "logs"
+  blocklist_file: "logs/blocklist.json"
+  action_log_file: "logs/ips_actions.log"
+
+reports:
+  output_dir: "reports"
