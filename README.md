@@ -1,5 +1,3 @@
-# ids_ips_ml
-
 # ML-Based IDS/IPS (Intrusion Detection & Prevention System)
 
 A machine-learning-driven network security system that **detects** intrusions
