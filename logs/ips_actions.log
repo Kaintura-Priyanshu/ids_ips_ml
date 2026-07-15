@@ -1,0 +1,32 @@
+[2026-07-15T00:51:22.500385] BLOCK 84.13.220.92 | class=DDoS | predicted=DDoS confidence=1.000 >= block_threshold | TEMPORARY (60m) | offense#1 | would run: iptables -A INPUT -s 84.13.220.92 -j DROP
+[2026-07-15T00:51:22.627611] BLOCK 44.110.35.91 | class=PortScan | predicted=PortScan confidence=1.000 >= block_threshold | TEMPORARY (60m) | offense#1 | would run: iptables -A INPUT -s 44.110.35.91 -j DROP
+[2026-07-15T00:51:22.646131] BLOCK 176.124.60.4 | class=DDoS | predicted=DDoS confidence=1.000 >= block_threshold | TEMPORARY (60m) | offense#1 | would run: iptables -A INPUT -s 176.124.60.4 -j DROP
+[2026-07-15T00:51:22.740437] BLOCK 165.196.130.40 | class=DDoS | predicted=DDoS confidence=0.940 >= block_threshold | TEMPORARY (60m) | offense#1 | would run: iptables -A INPUT -s 165.196.130.40 -j DROP
+[2026-07-15T00:51:22.758726] BLOCK 217.251.27.236 | class=PortScan | predicted=PortScan confidence=1.000 >= block_threshold | TEMPORARY (60m) | offense#1 | would run: iptables -A INPUT -s 217.251.27.236 -j DROP
+[2026-07-15T00:51:22.832194] BLOCK 60.76.63.88 | class=PortScan | predicted=PortScan confidence=1.000 >= block_threshold | TEMPORARY (60m) | offense#1 | would run: iptables -A INPUT -s 60.76.63.88 -j DROP
+[2026-07-15T00:51:22.869067] BLOCK 169.106.26.151 | class=Infiltration | predicted=Infiltration confidence=1.000 >= block_threshold | TEMPORARY (60m) | offense#1 | would run: iptables -A INPUT -s 169.106.26.151 -j DROP
+[2026-07-15T00:51:22.905999] BLOCK 88.210.115.254 | class=PortScan | predicted=PortScan confidence=1.000 >= block_threshold | TEMPORARY (60m) | offense#1 | would run: iptables -A INPUT -s 88.210.115.254 -j DROP
+[2026-07-15T00:51:23.015232] BLOCK 131.38.226.16 | class=Brute Force | predicted=Brute Force confidence=1.000 >= block_threshold | TEMPORARY (60m) | offense#1 | would run: iptables -A INPUT -s 131.38.226.16 -j DROP
+[2026-07-15T00:51:23.143904] BLOCK 164.110.168.112 | class=Brute Force | predicted=Brute Force confidence=1.000 >= block_threshold | TEMPORARY (60m) | offense#1 | would run: iptables -A INPUT -s 164.110.168.112 -j DROP
+[2026-07-15T00:51:23.162401] BLOCK 86.49.202.89 | class=DDoS | predicted=DDoS confidence=0.990 >= block_threshold | TEMPORARY (60m) | offense#1 | would run: iptables -A INPUT -s 86.49.202.89 -j DROP
+[2026-07-15T00:51:23.235289] BLOCK 32.86.180.130 | class=Brute Force | predicted=Brute Force confidence=1.000 >= block_threshold | TEMPORARY (60m) | offense#1 | would run: iptables -A INPUT -s 32.86.180.130 -j DROP
+[2026-07-15T00:51:23.253705] BLOCK 18.226.197.71 | class=PortScan | predicted=PortScan confidence=1.000 >= block_threshold | TEMPORARY (60m) | offense#1 | would run: iptables -A INPUT -s 18.226.197.71 -j DROP
+[2026-07-15T00:51:23.289956] BLOCK 18.120.148.136 | class=DDoS | predicted=DDoS confidence=1.000 >= block_threshold | TEMPORARY (60m) | offense#1 | would run: iptables -A INPUT -s 18.120.148.136 -j DROP
+[2026-07-15T00:51:23.344598] BLOCK 114.72.180.150 | class=Bot | predicted=Bot confidence=0.980 >= block_threshold | TEMPORARY (60m) | offense#1 | would run: iptables -A INPUT -s 114.72.180.150 -j DROP
+[2026-07-15T00:51:23.382162] BLOCK 174.85.223.40 | class=DDoS | predicted=DDoS confidence=1.000 >= block_threshold | TEMPORARY (60m) | offense#1 | would run: iptables -A INPUT -s 174.85.223.40 -j DROP
+[2026-07-15T00:51:23.457626] BLOCK 130.177.90.115 | class=DDoS | predicted=DDoS confidence=1.000 >= block_threshold | TEMPORARY (60m) | offense#1 | would run: iptables -A INPUT -s 130.177.90.115 -j DROP
+[2026-07-15T00:51:23.553822] BLOCK 203.62.105.210 | class=DDoS | predicted=DDoS confidence=1.000 >= block_threshold | TEMPORARY (60m) | offense#1 | would run: iptables -A INPUT -s 203.62.105.210 -j DROP
+[2026-07-15T00:51:23.611059] BLOCK 140.143.23.76 | class=PortScan | predicted=PortScan confidence=1.000 >= block_threshold | TEMPORARY (60m) | offense#1 | would run: iptables -A INPUT -s 140.143.23.76 -j DROP
+[2026-07-15T00:51:23.686497] BLOCK 85.208.152.134 | class=DDoS | predicted=DDoS confidence=1.000 >= block_threshold | TEMPORARY (60m) | offense#1 | would run: iptables -A INPUT -s 85.208.152.134 -j DROP
+[2026-07-15T00:51:23.765919] BLOCK 177.189.77.193 | class=Brute Force | predicted=Brute Force confidence=0.980 >= block_threshold | TEMPORARY (60m) | offense#1 | would run: iptables -A INPUT -s 177.189.77.193 -j DROP
+[2026-07-15T00:51:23.803356] BLOCK 65.146.18.243 | class=Bot | predicted=Bot confidence=1.000 >= block_threshold | TEMPORARY (60m) | offense#1 | would run: iptables -A INPUT -s 65.146.18.243 -j DROP
+[2026-07-15T00:51:23.842420] BLOCK 51.68.70.2 | class=DDoS | predicted=DDoS confidence=1.000 >= block_threshold | TEMPORARY (60m) | offense#1 | would run: iptables -A INPUT -s 51.68.70.2 -j DROP
+[2026-07-15T00:51:23.861602] BLOCK 203.235.87.110 | class=Brute Force | predicted=Brute Force confidence=1.000 >= block_threshold | TEMPORARY (60m) | offense#1 | would run: iptables -A INPUT -s 203.235.87.110 -j DROP
+[2026-07-15T00:51:23.901142] BLOCK 44.151.151.139 | class=DDoS | predicted=DDoS confidence=1.000 >= block_threshold | TEMPORARY (60m) | offense#1 | would run: iptables -A INPUT -s 44.151.151.139 -j DROP
+[2026-07-15T00:51:23.995158] RATE_LIMIT 198.5.174.250 | class=Bot | predicted=Bot confidence=0.799 >= rate_limit_threshold
+[2026-07-15T00:51:24.032192] BLOCK 106.118.37.185 | class=DDoS | predicted=DDoS confidence=1.000 >= block_threshold | TEMPORARY (60m) | offense#1 | would run: iptables -A INPUT -s 106.118.37.185 -j DROP
+[2026-07-15T00:51:24.051185] BLOCK 107.153.89.179 | class=Bot | predicted=Bot confidence=0.939 >= block_threshold | TEMPORARY (60m) | offense#1 | would run: iptables -A INPUT -s 107.153.89.179 -j DROP
+[2026-07-15T00:51:24.070259] BLOCK 197.112.205.197 | class=PortScan | predicted=PortScan confidence=1.000 >= block_threshold | TEMPORARY (60m) | offense#1 | would run: iptables -A INPUT -s 197.112.205.197 -j DROP
+[2026-07-15T00:51:24.191531] BLOCK 40.154.24.7 | class=Infiltration | predicted=Infiltration confidence=0.980 >= block_threshold | TEMPORARY (60m) | offense#1 | would run: iptables -A INPUT -s 40.154.24.7 -j DROP
+[2026-07-15T00:51:24.210933] BLOCK 85.88.221.100 | class=Bot | predicted=Bot confidence=0.969 >= block_threshold | TEMPORARY (60m) | offense#1 | would run: iptables -A INPUT -s 85.88.221.100 -j DROP
+[2026-07-15T00:51:24.248602] BLOCK 93.93.113.160 | class=Bot | predicted=Bot confidence=0.939 >= block_threshold | TEMPORARY (60m) | offense#1 | would run: iptables -A INPUT -s 93.93.113.160 -j DROP

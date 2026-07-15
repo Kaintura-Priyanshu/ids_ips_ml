@@ -1,0 +1,219 @@
+{
+  "84.13.220.92": {
+    "blocked_at": "2026-07-15T00:51:22.500131",
+    "expires_at": "2026-07-15T01:51:22.500118",
+    "permanent": false,
+    "reason": "predicted=DDoS confidence=1.000 >= block_threshold",
+    "offense_count": 1
+  },
+  "44.110.35.91": {
+    "blocked_at": "2026-07-15T00:51:22.627325",
+    "expires_at": "2026-07-15T01:51:22.627312",
+    "permanent": false,
+    "reason": "predicted=PortScan confidence=1.000 >= block_threshold",
+    "offense_count": 1
+  },
+  "176.124.60.4": {
+    "blocked_at": "2026-07-15T00:51:22.645874",
+    "expires_at": "2026-07-15T01:51:22.645864",
+    "permanent": false,
+    "reason": "predicted=DDoS confidence=1.000 >= block_threshold",
+    "offense_count": 1
+  },
+  "165.196.130.40": {
+    "blocked_at": "2026-07-15T00:51:22.740113",
+    "expires_at": "2026-07-15T01:51:22.740101",
+    "permanent": false,
+    "reason": "predicted=DDoS confidence=0.940 >= block_threshold",
+    "offense_count": 1
+  },
+  "217.251.27.236": {
+    "blocked_at": "2026-07-15T00:51:22.758475",
+    "expires_at": "2026-07-15T01:51:22.758465",
+    "permanent": false,
+    "reason": "predicted=PortScan confidence=1.000 >= block_threshold",
+    "offense_count": 1
+  },
+  "60.76.63.88": {
+    "blocked_at": "2026-07-15T00:51:22.831864",
+    "expires_at": "2026-07-15T01:51:22.831851",
+    "permanent": false,
+    "reason": "predicted=PortScan confidence=1.000 >= block_threshold",
+    "offense_count": 1
+  },
+  "169.106.26.151": {
+    "blocked_at": "2026-07-15T00:51:22.868688",
+    "expires_at": "2026-07-15T01:51:22.868676",
+    "permanent": false,
+    "reason": "predicted=Infiltration confidence=1.000 >= block_threshold",
+    "offense_count": 1
+  },
+  "88.210.115.254": {
+    "blocked_at": "2026-07-15T00:51:22.905688",
+    "expires_at": "2026-07-15T01:51:22.905676",
+    "permanent": false,
+    "reason": "predicted=PortScan confidence=1.000 >= block_threshold",
+    "offense_count": 1
+  },
+  "131.38.226.16": {
+    "blocked_at": "2026-07-15T00:51:23.014778",
+    "expires_at": "2026-07-15T01:51:23.014765",
+    "permanent": false,
+    "reason": "predicted=Brute Force confidence=1.000 >= block_threshold",
+    "offense_count": 1
+  },
+  "164.110.168.112": {
+    "blocked_at": "2026-07-15T00:51:23.143588",
+    "expires_at": "2026-07-15T01:51:23.143575",
+    "permanent": false,
+    "reason": "predicted=Brute Force confidence=1.000 >= block_threshold",
+    "offense_count": 1
+  },
+  "86.49.202.89": {
+    "blocked_at": "2026-07-15T00:51:23.162051",
+    "expires_at": "2026-07-15T01:51:23.162024",
+    "permanent": false,
+    "reason": "predicted=DDoS confidence=0.990 >= block_threshold",
+    "offense_count": 1
+  },
+  "32.86.180.130": {
+    "blocked_at": "2026-07-15T00:51:23.234906",
+    "expires_at": "2026-07-15T01:51:23.234893",
+    "permanent": false,
+    "reason": "predicted=Brute Force confidence=1.000 >= block_threshold",
+    "offense_count": 1
+  },
+  "18.226.197.71": {
+    "blocked_at": "2026-07-15T00:51:23.253402",
+    "expires_at": "2026-07-15T01:51:23.253392",
+    "permanent": false,
+    "reason": "predicted=PortScan confidence=1.000 >= block_threshold",
+    "offense_count": 1
+  },
+  "18.120.148.136": {
+    "blocked_at": "2026-07-15T00:51:23.289632",
+    "expires_at": "2026-07-15T01:51:23.289622",
+    "permanent": false,
+    "reason": "predicted=DDoS confidence=1.000 >= block_threshold",
+    "offense_count": 1
+  },
+  "114.72.180.150": {
+    "blocked_at": "2026-07-15T00:51:23.344253",
+    "expires_at": "2026-07-15T01:51:23.344242",
+    "permanent": false,
+    "reason": "predicted=Bot confidence=0.980 >= block_threshold",
+    "offense_count": 1
+  },
+  "174.85.223.40": {
+    "blocked_at": "2026-07-15T00:51:23.381656",
+    "expires_at": "2026-07-15T01:51:23.381644",
+    "permanent": false,
+    "reason": "predicted=DDoS confidence=1.000 >= block_threshold",
+    "offense_count": 1
+  },
+  "130.177.90.115": {
+    "blocked_at": "2026-07-15T00:51:23.457228",
+    "expires_at": "2026-07-15T01:51:23.457215",
+    "permanent": false,
+    "reason": "predicted=DDoS confidence=1.000 >= block_threshold",
+    "offense_count": 1
+  },
+  "203.62.105.210": {
+    "blocked_at": "2026-07-15T00:51:23.553339",
+    "expires_at": "2026-07-15T01:51:23.553326",
+    "permanent": false,
+    "reason": "predicted=DDoS confidence=1.000 >= block_threshold",
+    "offense_count": 1
+  },
+  "140.143.23.76": {
+    "blocked_at": "2026-07-15T00:51:23.610660",
+    "expires_at": "2026-07-15T01:51:23.610648",
+    "permanent": false,
+    "reason": "predicted=PortScan confidence=1.000 >= block_threshold",
+    "offense_count": 1
+  },
+  "85.208.152.134": {
+    "blocked_at": "2026-07-15T00:51:23.686031",
+    "expires_at": "2026-07-15T01:51:23.686018",
+    "permanent": false,
+    "reason": "predicted=DDoS confidence=1.000 >= block_threshold",
+    "offense_count": 1
+  },
+  "177.189.77.193": {
+    "blocked_at": "2026-07-15T00:51:23.765497",
+    "expires_at": "2026-07-15T01:51:23.765476",
+    "permanent": false,
+    "reason": "predicted=Brute Force confidence=0.980 >= block_threshold",
+    "offense_count": 1
+  },
+  "65.146.18.243": {
+    "blocked_at": "2026-07-15T00:51:23.802853",
+    "expires_at": "2026-07-15T01:51:23.802840",
+    "permanent": false,
+    "reason": "predicted=Bot confidence=1.000 >= block_threshold",
+    "offense_count": 1
+  },
+  "51.68.70.2": {
+    "blocked_at": "2026-07-15T00:51:23.841953",
+    "expires_at": "2026-07-15T01:51:23.841939",
+    "permanent": false,
+    "reason": "predicted=DDoS confidence=1.000 >= block_threshold",
+    "offense_count": 1
+  },
+  "203.235.87.110": {
+    "blocked_at": "2026-07-15T00:51:23.861166",
+    "expires_at": "2026-07-15T01:51:23.861154",
+    "permanent": false,
+    "reason": "predicted=Brute Force confidence=1.000 >= block_threshold",
+    "offense_count": 1
+  },
+  "44.151.151.139": {
+    "blocked_at": "2026-07-15T00:51:23.900578",
+    "expires_at": "2026-07-15T01:51:23.900565",
+    "permanent": false,
+    "reason": "predicted=DDoS confidence=1.000 >= block_threshold",
+    "offense_count": 1
+  },
+  "106.118.37.185": {
+    "blocked_at": "2026-07-15T00:51:24.031727",
+    "expires_at": "2026-07-15T01:51:24.031715",
+    "permanent": false,
+    "reason": "predicted=DDoS confidence=1.000 >= block_threshold",
+    "offense_count": 1
+  },
+  "107.153.89.179": {
+    "blocked_at": "2026-07-15T00:51:24.050714",
+    "expires_at": "2026-07-15T01:51:24.050702",
+    "permanent": false,
+    "reason": "predicted=Bot confidence=0.939 >= block_threshold",
+    "offense_count": 1
+  },
+  "197.112.205.197": {
+    "blocked_at": "2026-07-15T00:51:24.069789",
+    "expires_at": "2026-07-15T01:51:24.069778",
+    "permanent": false,
+    "reason": "predicted=PortScan confidence=1.000 >= block_threshold",
+    "offense_count": 1
+  },
+  "40.154.24.7": {
+    "blocked_at": "2026-07-15T00:51:24.191056",
+    "expires_at": "2026-07-15T01:51:24.191016",
+    "permanent": false,
+    "reason": "predicted=Infiltration confidence=0.980 >= block_threshold",
+    "offense_count": 1
+  },
+  "85.88.221.100": {
+    "blocked_at": "2026-07-15T00:51:24.210483",
+    "expires_at": "2026-07-15T01:51:24.210471",
+    "permanent": false,
+    "reason": "predicted=Bot confidence=0.969 >= block_threshold",
+    "offense_count": 1
+  },
+  "93.93.113.160": {
+    "blocked_at": "2026-07-15T00:51:24.248150",
+    "expires_at": "2026-07-15T01:51:24.248139",
+    "permanent": false,
+    "reason": "predicted=Bot confidence=0.939 >= block_threshold",
+    "offense_count": 1
+  }
+}
